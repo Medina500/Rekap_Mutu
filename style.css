@@ -1,0 +1,22 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.judul {
+  font-weight: bold;
+  color: #006d77;
+}
+
+.table {
+  background-color: #ffffff;
+}
+
+.table th, .table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table thead th {
+  background-color: #006d77 !important;
+  color: white;
+}
